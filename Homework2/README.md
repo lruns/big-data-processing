@@ -11,5 +11,5 @@
 Нужна java 8 или 11 (17 не подойдет).
 ```
 sbt compile
-sbt run
+sbt test
 ```
